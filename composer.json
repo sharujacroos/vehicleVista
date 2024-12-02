@@ -1,0 +1,16 @@
+{
+  "name": "vehiclevista/project01",
+  "description": "This is a web application",
+  "type": "project",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/Wisembly/elephant.io.git"
+    }
+  ],
+  "require": {
+    "wisembly/elephant.io": "^3.1"
+  }
+}
